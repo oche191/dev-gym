@@ -1,0 +1,5 @@
+# gitignore, what can we say ;)
+*.iml
+.idea
+*.DS_Store
+/out
